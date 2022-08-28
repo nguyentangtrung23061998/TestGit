@@ -1,8 +1,8 @@
 
 function Horse(){
-    this.stomach = [];
+
 }
 Horse.prototype.sayHi = function(){
-    console.log('Running')
+    console.log('Hi, I am a dog. My name is: ' );
 }
 module.exports = Horse;
